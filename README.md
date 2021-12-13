@@ -47,8 +47,8 @@ English
 <h4>Learning and Personality tests and results</h4>
 
 <p> Learning style test, 20 multiple-choice questions.</P>
-<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">link to the test</a>
-<a href="https://drive.google.com/file/d/1oDEn7yxbroBnR11Z08Os1YiiFkwjXR5y/view?usp=sharing">My results</a>
+<p> <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">link to the test</a> </p>
+<p> <a href="https://drive.google.com/file/d/1oDEn7yxbroBnR11Z08Os1YiiFkwjXR5y/view?usp=sharing">My results</a> </p>
 
 <p>Myers-Briggs test, agree or disagree format.</p>
 <a href="https://www.16personalities.com/">Link to the test</a>
