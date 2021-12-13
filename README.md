@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>Noah Etherington IT Profile</h1>
+<h1 style="background-color:LightGray;">Noah Etherington IT Profile</h1>
 <hr>
 <img src="me.jpg" alt="A Picture of Me">
 <p>Infomation</p>
