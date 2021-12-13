@@ -51,11 +51,11 @@ English
 <p> <a href="https://drive.google.com/file/d/1oDEn7yxbroBnR11Z08Os1YiiFkwjXR5y/view?usp=sharing">My results</a> </p>
 
 <p>Myers-Briggs test, agree or disagree format.</p>
-    <p> <a href="https://www.16personalities.com/">Link to the test</a> </p>
+<p> <a href="https://www.16personalities.com/">Link to the test</a> </p>
 <p> <a href="https://drive.google.com/file/d/1Y6_h19tpUo6hSdMSIAgFO6usCIcaJyMV/view?usp=sharing">My results</a> </p>
 
 <p>Emotional intelligence test, 10 multiple-choice questions.</p>
-<a href=" https://www.arealme.com/eq/en/">link to the test</a>
+    <p> <a href="https://www.arealme.com/eq/en/">link to the test</a> </p>
 <p>Results: 100/200</p>
 <hr>
 <h3>My Project</h3>
