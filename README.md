@@ -7,7 +7,7 @@
 <h1>Noah Etherington IT Profile</h1>
 <hr>
 <p>Infomation</p>
-<img src="img_me.jpg" alt="A Picture of Me">
+<img src="me.jpg" alt="A Picture of Me">
 
 <pre>
 Noah Etherington 
