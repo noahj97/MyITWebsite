@@ -1,6 +1,6 @@
 <html>
 <style>
-body {background-color: powderblue;}
+<body> {background-color: powderblue;}
 </style>
 <h1 style="color:gray;">Noah Etherington IT Profile</h1>
 hr{
