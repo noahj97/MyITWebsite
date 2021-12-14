@@ -2,7 +2,7 @@
 <head>
 <title>Page Title</title>
 </head>
-<body>
+<body> {background-color: powderblue;}
 
 <h1 style="gray;">Noah Etherington IT Profile</h1>
 <hr>
