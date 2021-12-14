@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <style>
 body {background-color: powderblue;}
 </style>
