@@ -1,8 +1,10 @@
 <html>
-<style>
-<body> {background-color: powderblue;}
-</style>
-<h1 style="color:gray;">Noah Etherington IT Profile</h1>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Noah Etherington IT Profile</h1>
 <hr>
 <img src="me.jpg" alt="A Picture of Me">
 <p>Infomation</p>
@@ -45,15 +47,15 @@ English
 <h4>Learning and Personality tests and results</h4>
 
 <p> Learning style test, 20 multiple-choice questions.</P>
-<p> <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">link to the test</a> </p>
-<p> <a href="https://drive.google.com/file/d/1oDEn7yxbroBnR11Z08Os1YiiFkwjXR5y/view?usp=sharing">My results</a> </p>
+<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">link to the test</a>
+<a href="https://drive.google.com/file/d/1oDEn7yxbroBnR11Z08Os1YiiFkwjXR5y/view?usp=sharing">My results</a>
 
 <p>Myers-Briggs test, agree or disagree format.</p>
-<p> <a href="https://www.16personalities.com/">Link to the test</a> </p>
-<p> <a href="https://drive.google.com/file/d/1Y6_h19tpUo6hSdMSIAgFO6usCIcaJyMV/view?usp=sharing">My results</a> </p>
+<a href="https://www.16personalities.com/">Link to the test</a>
+<a href="https://drive.google.com/file/d/1Y6_h19tpUo6hSdMSIAgFO6usCIcaJyMV/view?usp=sharing">My results</a>
 
 <p>Emotional intelligence test, 10 multiple-choice questions.</p>
-    <p> <a href="https://www.arealme.com/eq/en/">link to the test</a> </p>
+<a href=" https://www.arealme.com/eq/en/">link to the test</a>
 <p>Results: 100/200</p>
 <hr>
 <h3>My Project</h3>
@@ -73,4 +75,5 @@ English
 
 </body>
 </html>
+
 
