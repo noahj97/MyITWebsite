@@ -3,7 +3,7 @@
 <body> {background-color: powderblue;}
 </style>
 <h1 style="color:gray;">Noah Etherington IT Profile</h1>
-hr{
+<hr>{
         height: 1px;
         background-color:blue;
         border: none;
