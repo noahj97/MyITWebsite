@@ -3,11 +3,7 @@
 <body> {background-color: powderblue;}
 </style>
 <h1 style="color:gray;">Noah Etherington IT Profile</h1>
-<hr>{
-        height: 1px;
-        background-color:blue;
-        border: none;
-    }
+<hr>
 <img src="me.jpg" alt="A Picture of Me">
 <p>Infomation</p>
 
