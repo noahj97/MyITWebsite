@@ -20,15 +20,11 @@ English
 
 <p>Education</p>
 
-<pre>
-    - Junior and secondary education at Sacred Heart College  
-
-    - College education at Elizabeth College 
-
-    - Certificate III in hospitality
-    
-</pre>    
-        
+<ul>
+  <li>Junior and secondary education at Sacred Heart College</li>
+  <li>College education at Elizabeth College </li>
+  <li>Certificate III in hospitality</li>
+</ul>  
 
    
 <hr>
