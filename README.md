@@ -4,7 +4,7 @@
 </head>
 <body> {background-color: powderblue;}
 
-<h1 style="gray;">Noah Etherington IT Profile</h1>
+<h1 style="color:gray;">Noah Etherington IT Profile</h1>
 <hr>
 <img src="me.jpg" alt="A Picture of Me">
 <p>Infomation</p>
