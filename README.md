@@ -6,7 +6,7 @@
 
 <h1>Noah Etherington IT Profile</h1>
 <hr>
-<img src="me.jpg" alt="A Picture of Me">
+<img style="img-align:center;"src="me.jpg" alt="A Picture of Me">
 <p>Infomation</p>
 
 
